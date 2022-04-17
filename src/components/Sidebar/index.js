@@ -48,7 +48,7 @@ function Sidebar(props) {
           borderRadius={sidebarRadius}
         >
           <SidebarContent routes={routes}
-            logoText={"SmarSpray"}
+            logoText={"SmartSpray"}
             display="none"
             sidebarVariant={sidebarVariant}
           />

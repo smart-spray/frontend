@@ -18,7 +18,7 @@ import MiniStatistics from "./components/MiniStatistics";
 import OrdersOverview from "./components/OrdersOverview";
 import SalesOverview from "./components/SalesOverview";
 import { barChartData, barChartOptions } from "../../../variables/charts"
-import api from "./api/index";
+import api from "../../../api/index";
 import Card from "../../../components/Card/Card";
 import Chart from "react-apexcharts";
 import { FaHistory } from "react-icons/fa";
